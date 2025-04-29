@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "script:iceether_fence",
+    "minecraft:nether_brick_fence"
+  ]
+}

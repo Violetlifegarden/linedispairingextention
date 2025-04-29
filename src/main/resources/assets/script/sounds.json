@@ -1,0 +1,12 @@
+{
+  "an_rebirth": {
+    "subtitle": "an_rebirth",
+    "replace": "true",
+    "sounds": [
+      {
+        "name": "script:an_rebirth",
+        "stream": true
+      }
+    ]
+  }
+}

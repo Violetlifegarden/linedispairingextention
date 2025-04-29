@@ -1,0 +1,16 @@
+{
+  "item.script.iceether": "iceether",
+  "item.script.fireether": "fireether",
+  "itemGroup.scripttab": "scripttab",
+  "block.script.iceetherblock":"iceetherblock",
+  "block.script.iceether_fence":"iceetherfence",
+  "block.script.iceether_fence_gate":"iceetherfencegate",
+  "block.script.fireetherblock":"fireetherblock",
+  "tooltip.script.iceether": "按住shift查看信息",
+  "tooltip.script.iceether_shift": "\u00A76目前还有一些bug，尽量在空旷地区用，不然容易卡墙或者回不到生存模式",
+  "block.script.iceether_stairs":"iceetherstairs",
+  "item.script.eggexploder": "\u00A761",
+  "item.script.eggexploder2": "\u00A752",
+  "options.musicTimer": "Music Timer"
+
+}

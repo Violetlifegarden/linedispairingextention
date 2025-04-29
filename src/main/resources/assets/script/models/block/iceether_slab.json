@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "script:block/iceetherblock",
+    "top": "script:block/iceetherblock",
+    "side": "script:block/iceetherblock"
+  }
+}

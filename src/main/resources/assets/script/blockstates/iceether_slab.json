@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "script:block/iceether_slab"
+    },
+    "type=double": {
+      "model": "script:block/iceetherblock"
+    },
+    "type=top": {
+      "model": "script:block/iceether_slab_top"
+    }
+  }
+}
